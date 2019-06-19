@@ -1,3 +1,6 @@
 <?php
 # Empty file
-## Heri kg nyoir
+echo "Heri kg nyoir";
+?>
+
+
